@@ -6,3 +6,7 @@ class Servico:
         self._nome = nome
         self._tipo = tipo
         self._custo = custo
+
+
+    def adicionar_imagem(imagem):
+        print(imagem)
