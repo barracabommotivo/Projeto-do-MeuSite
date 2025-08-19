@@ -10,3 +10,6 @@ class Servico:
 
     def adicionar_imagem(imagem):
         print(imagem)
+
+    def adicionar_fundo(fundo):
+        print(fundo)
